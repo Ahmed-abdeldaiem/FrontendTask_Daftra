@@ -17,7 +17,7 @@ import BusinessCenterIcon from "@mui/icons-material/BusinessCenter";
 import GroupsOutlinedIcon from "@mui/icons-material/GroupsOutlined";
 import NotificationsOutlinedIcon from "@mui/icons-material/NotificationsOutlined";
 import ChatBubbleOutlineOutlinedIcon from "@mui/icons-material/ChatBubbleOutlineOutlined";
-import style from "./MenuDat2.module.css";
+
 
 // MenuDat2 is the secont part of mobile and small screen list
 

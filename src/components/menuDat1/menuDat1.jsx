@@ -11,7 +11,7 @@ import {
   Typography,
 } from "@mui/material";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
-import style from "./MenuDat1.module.css";
+
 import MenuDat2 from "../menuDat2/menuDat2";
 
 // MenuDat1 is a repeated part in many screen and many function so I make it as a Sepereted component
