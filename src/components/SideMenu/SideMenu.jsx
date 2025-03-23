@@ -23,7 +23,7 @@ import EditOutlinedIcon from "@mui/icons-material/EditOutlined";
 import VisibilityOffOutlinedIcon from "@mui/icons-material/VisibilityOffOutlined";
 import RemoveRedEyeOutlinedIcon from "@mui/icons-material/RemoveRedEyeOutlined";
 import DragIndicatorIcon from "@mui/icons-material/DragIndicator";
-import EditMode from "../EditMode/EditMode";
+
 import EditMode2 from "../EditMode2/EditMode2";
 
 
