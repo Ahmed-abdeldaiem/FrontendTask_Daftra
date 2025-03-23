@@ -28,10 +28,10 @@ let baseUrl='http://localhost:8081/'
        
 
         
-        return data.data ? data.data : 'No Jobs found';
+        return data.data ? data.data : 'No items found';
     })
     .catch((error) => {
-        console.log(error);
+        // console.log(error);
         return 'Error fetching Side Menu Data';
     });
 }
